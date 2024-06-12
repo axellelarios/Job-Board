@@ -4,9 +4,9 @@ import Title from './title'
 const Header = (props) => {
 
     return (
-        <Header>
+        <header>
            <Title text={props.title}/>
-        </Header>
+        </header>
     )  
 }
 
