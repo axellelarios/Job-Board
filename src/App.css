@@ -1,0 +1,17 @@
+
+header {
+    background: grey;
+    color: white;
+    text-align: center;
+}
+
+.container .jobs-list {
+    display: flex;
+    gap: 20px;
+}
+   
+.container .jobs-list .job-card {
+     padding: 20px;
+     background: rgb(197, 197, 197);
+     max-width: 450px; 
+}
